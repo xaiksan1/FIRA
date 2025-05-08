@@ -1,7 +1,1 @@
-<svg viewBox="0 0 32 64" width="128" height="256" xmlns="http://www.w3.org/2000/svg">
-    <title>white diamond on blue</title>
-    <rect x="0" y="0" width="32" height="64" fill="blue"/>
-    <g fill="white">
-        <path d="M16 0 L32 32 L16 64 L0 32 Z" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="256" viewBox="0 0 32 64"><title>white diamond on blue</title><rect width="32" height="64" x="0" y="0" fill="#00f"/><g fill="#fff"><path d="M16 0 L32 32 L16 64 L0 32 Z"/></g></svg>
